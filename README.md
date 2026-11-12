@@ -29,5 +29,6 @@ The long-term destination for the site and its deployment workflow will be confi
 
 - [Core](https://github.com/theatronmc/theatron)
 - [Launcher](https://github.com/theatronmc/launcher)
+- [Relay](https://github.com/theatronmc/relay)
 - [Extension template](https://github.com/theatronmc/extension-template)
 - [Extension registry](https://github.com/theatronmc/extension-registry)
